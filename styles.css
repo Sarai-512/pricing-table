@@ -18,7 +18,8 @@ body {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
-  width: min(1600px, 100%);
+  margin: 10%;
+  width: min(1600px,100%); 
 }
 
 .pricing-card {
